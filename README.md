@@ -15,7 +15,6 @@ To implement simple linear regression using sklearn.
 5. Display the slop and intercept values.
 6. Plot the regression line using scatterplot.
 7. Calculate the MSE.
-
 ## Program:
 ```
 /*
@@ -59,7 +58,6 @@ print(f'Mean Squared Error (MSE): {mse}')
 ```
 ## Output:
 ![screencapture-colab-research-google-drive-1-nnnnSsc9FUaVkQxcUWtyQ0E0dmi5j0C-2024-10-03-14_16_30](https://github.com/user-attachments/assets/c199c65d-ec4e-4d02-ad92-e49b927d5fac)
-
 
 
 ## Result:
