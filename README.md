@@ -19,8 +19,8 @@ To implement simple linear regression using sklearn.
 ```
 /*
 Program to implement univariate Linear Regression to fit a straight line using least squares.
-Developed by: K ADHITHYA
-RegisterNumber: 2305002001
+Developed by: T SHARUKESH
+RegisterNumber: 2305002022
 */
 ```
 ```
